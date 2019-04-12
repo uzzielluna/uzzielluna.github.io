@@ -13,8 +13,8 @@ const contactInfo = `
 
 $(document).ready(function() {
   // populate contact info fields
-  $("#contact-info").html(contactInfo);
-  $("#footer-contact").html(contactInfo);
+  // $("#contact-info").html(contactInfo);
+  // $("#footer-contact").html(contactInfo);
 
   // mobile menu navbar
   $("#menu").click(function() {
