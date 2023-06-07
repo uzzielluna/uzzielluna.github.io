@@ -1,7 +1,7 @@
 // purpose: so that webscraping bots that don't use a headless browser won't see my contact info.
 const number = `${'(469)' + ' 363-6717'}`;
 const email = `${'uzziel.luna' + '@outlook.com'}`;
-const city = `Lewisville, Texas`;
+const city = `Greenville, Texas`;
 const contactInfo = `
     <div >Phone</div>
     <div class="contact-entry">${number}</div>
